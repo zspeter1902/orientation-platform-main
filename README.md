@@ -175,12 +175,6 @@
 
 ![系统用户新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111907@2x.png "系统用户新增.png")
 
-- 系统日志监控模块
-
-![系统日志模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111947@2x.png "系统日志模块-01.png")
-
-#### 系统业务县官模块
-
 - 网页公告信息管理模块
 
 ![网页公告信息管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112148@2x.png "网页公告信息管理模块.png")
@@ -191,9 +185,30 @@
 
 ![首页轮播图新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112316@2x.png "首页轮播图新增.png")
 
-- 收费系信息管理模块
+- 系统日志监控模块
+
+![系统日志模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111947@2x.png "系统日志模块-01.png")
+
+#### 系统业务县官模块
+
+- 收费信息管理模块
 
 ![前台用户管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112534@2x.png "收费系信息管理模块.png")
+
+- 收费信息管理模块
+
+![班级信息管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-113619@2x.png "班级信息管理模块.png")
+
+- 学生信息管理模块
+
+![班级信息管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-113705@2x.png "学生信息管理模块.png")
+
+- 专业信息管理模块
+
+![班级信息管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-113741@2x.png "专业信息管理模块.png")
+
+![班级信息管理新增模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-113814@2x.png "班级信息管理新增模块.png")
+
 
 #### 网页端模块
 
