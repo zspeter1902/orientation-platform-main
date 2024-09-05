@@ -175,12 +175,25 @@
 
 ![系统用户新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111907@2x.png "系统用户新增.png")
 
-#### 系统监控模块
-
-- 系统日志
+- 系统日志监控模块
 
 ![系统日志模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111947@2x.png "系统日志模块-01.png")
 
+#### 系统业务县官模块
+
+- 网页公告信息管理模块
+
+![网页公告信息管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112148@2x.png "网页公告信息管理模块.png")
+
+- 首页轮播图管理模块
+
+![首页轮播图管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112231@2x.png "首页轮播图管理模块.png")
+
+![首页轮播图新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112316@2x.png "首页轮播图新增.png")
+
+- 收费系信息管理模块
+
+![前台用户管理模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-112534@2x.png "收费系信息管理模块.png")
 
 #### 网页端模块
 
@@ -200,45 +213,6 @@
 
 ![识别结果](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-111315@2x.png "识别结果")
 
-#### 系统业务模块
-
-- H5轮播图模块
-
-![H5轮播图模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104302@2x.png "H5轮播图模块-01.png")
-
-![H5轮播图模块-02](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104504@2x.png "H5轮播图模块-02.png")
-
-- 停车场信息管理模块
-
-![停车场信息列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104749@2x.png "停车场信息列表.png")
-
-![停车场信息新增](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104819@2x.png "停车场信息新增.png")
-
-- 停车位信息模块
-
-![停车位信息列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104916@2x.png "停车位信息列表.png")
-
-![停车位信息新增](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105031@2x.png "停车位信息新增.png")
-
-- 车辆信息模块
-
-![车辆信息列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105101@2x.png "车辆信息列表.png")
-
-![车辆信息新增](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105156@2x.png "车辆信息新增.png")
-
-- 车辆活动信息模块
-
-![车辆活动信息列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105237@2x.png "车辆活动信息列表.png")
-
-![模拟开闸](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105400@2x.png  "模拟开闸.png")
-
-- 识别记录模块
-
-![识别记录列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105457@2x.png "识别记录列表.png")
-
-![提交识别](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105528@2x.png  "提交识别.png")
-
-![识别结果](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-105710@2x.png   "识别结果.png")
 
 #### 后台系统功能模块概要
 + 系统登陆
