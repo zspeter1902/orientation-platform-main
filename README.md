@@ -117,41 +117,47 @@
 **为了让读者更好地理解系统技术原理，功能实现方法，故特地准备了系统技术文档，里面包含系统所使用的主要技术框架，运行说明，系统表设计，模块设计等。**
 #### 系统技术文档截图
 
-![系统技术文档截图-01](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-095455@2x.png  "系统技术文档截图-01.png")
+![系统技术文档截图-01](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-104733@2x.png  "系统技术文档截图-01.png")
 
-![系统技术文档截图-02](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-095540@2x.png  "系统技术文档截图-02.png")
+![系统技术文档截图-02](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-104823@2x.png  "系统技术文档截图-02.png")
 
 
 ### 项目代码展示
 
-#### 系统VUE代码截图展示
+#### 管理系统VUE代码截图展示
 
-![管理系统VUE代码截图展示](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-095652@2x.png "系统VUE代码截图展示.png")
+![管理系统VUE代码截图展示](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-104938@2x.png "管理系统VUE代码截图展示.png")
+
+#### 网页端VUE代码截图展示
+
+![管理系统VUE代码截图展示](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-105050@2x.png "网页端VUE代码截图展示.png")
 
 #### 系统后端Java代码截图展示
 
-![管理系统后端Java代码截图展示](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-095730@2x.png "管理系统后端Java代码截图展示.png")
+![管理系统后端Java代码截图展示](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-105128@2x.png "管理系统后端Java代码截图展示.png")
 
 #### 数据库表结构展示
 
-![数据库表结构展示](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-095816@2x.png "数据库表结构展示.png")
+![数据库表结构展示](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-105513@2x.png "数据库表结构展示.png")
 
 ### 系统截图展示
 #### 系统登陆
 - 登陆界面
 
-![登陆界面](https://www.skywalking.pro/download/images/orientation-platform/WX20231011-144536@2x.png "登陆界面.png")
+![登陆界面](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-102056@2x.png  "登陆界面.png")
 
 #### 系统管理模块
 - 系统主页
 
-![主页](https://skywalking.pro/download/images/orientation-platform/WX20231012-093945%402x.png "主页.png")
+![主页](https://skywalking.pro/download/images/orientation-platform/WX20240905-111120@2x.png "主页.png")
+
+![主页](https://skywalking.pro/download/images/orientation-platform/WX20240905-111149@2x.png "主页.png")
 
 - 菜单管理
 
-![菜单管理](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-101928@2x.png  "菜单管理.png")
+![菜单管理](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111228@2x.png  "菜单管理.png")
 
-![菜单编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102027@2x.png "菜单编辑.png")
+![菜单编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111326@2x.png "菜单编辑.png")
 
 - 角色管理
 
