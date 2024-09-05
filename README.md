@@ -212,21 +212,33 @@
 
 #### 网页端模块
 
+- 登录界面
+
+![登录界面](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-141647@2x.png "登录界面")
+
 - 首页
 
-![首页](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-110956@2x.png "首页")
+![首页](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-141808@2x.png "首页")
 
-- 提交识别
+- 公告信息查看
 
-![提交识别](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-110956@2x.png "提交识别")
+![首页](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-143254@2x.png "公告信息查看")
 
-![提交识别](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-111154@2x.png "提交识别")
+- 宿舍信息列表查看
 
-![提交识别](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-111244@2x.png "提交识别")
+![首页](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-143347@2x.png "宿舍信息列表查看")
 
-- 识别结果
+- 宿舍信息列表查看
 
-![识别结果](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-111315@2x.png "识别结果")
+![首页](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-143347@2x.png "宿舍信息列表查看")
+
+- 专业信息模块
+
+![专业信息详情](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-143455@2x.png  "专业信息详情")
+
+- 专业信息模块
+
+![专业信息模块](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-143550@2x.png "专业信息模块")
 
 
 #### 后台系统功能模块概要
@@ -258,50 +270,45 @@
     - 系统字典删除
   - 系统字典新增
 + 系统监控
-  - 在线用户管理
-    * 在线用户条件查询
-    + 在线用户踢出
   - 系统日志管理
     * 系统日志条件查询
     + 系统日志分析
   + 系统访问IP分析
-+ H5轮播图管理
-  - H5轮播图界面
-    * H5轮播图条件查询
-    + H5轮播图新增
-	+ H5轮播图删除
-	+ H5轮播图修改
-+ 停车场信息管理
-  - 停车场信息界面
-    * 停车场信息条件查询
-    + 停车场信息新增
-	+ 停车场信息删除
-	+ 停车场信息修改
-+ 停车位信息管理
-  - 停车位信息界面
-    * 停车位信息条件查询
-    + 停车位信息新增
-	+ 停车位信息删除
-	+ 停车位信息修改
-+ 车辆信息管理
-  - 车辆信息界面
-    * 车辆信息条件查询
-    + 车辆信息新增
-	+ 车辆信息删除
-	+ 车辆信息修改
-+ 车辆活动信息管理
-  - 车辆活动信息界面
-    * 车辆活动信息条件查询
-    + 车辆活动信息新增
-	+ 车辆活动信息删除
-	+ 车辆活动信息修改
-+ 识别记录信息管理
-  - 车辆活动信息界面
-    * 识别记录信息条件查询
-    + 提交识别功能
-	+ 识别记录信息删除
-	+ 识别记录信息修改
-
++ 网站业务管理
+  - 前台网页轮播图列表
+    * 前台网页轮播图条件查询
+    + 前台网页轮播图新增
+	+ 前台网页轮播图删除
+	+ 前台网页轮播图修改
+  - 前台网页公告列表
+    * 前台网页公告条件查询
+    + 前台网页公告新增
+	+ 前台网页公告删除
+	+ 前台网页公告修改
++ 网站用户业务管理
+  - 前台用户信息查询界面
+    * 前台用户信息条件查询
+    + 前台用户信息新增
+	+ 前台用户信息删除
+	+ 前台用户信息修改
++ 学生信息管理
+  - 学生信息界面
+    * 学生信息条件查询
+    + 学生信息新增
+	+ 学生信息删除
+	+ 学生信息修改
++ 班级信息管理
+  - 班级信息界面
+    * 班级信息条件查询
+    + 班级信息新增
+	+ 班级信息删除
+	+ 班级信息修改
++ 缴费信息管理
+  - 车缴费信息信息界面
+    * 缴费信息信息条件查询
+    + 缴费信息信息新增
+	+ 缴费信息信息删除
+	+ 缴费信息信息修改
 
 #### 演示地址
 ```
