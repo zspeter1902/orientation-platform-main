@@ -12,7 +12,7 @@
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
-![功能示意图](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-093945@2x.png   "功能示意图.png")
+![功能示意图](https://www.skywalking.pro/download/images/orientation-platform/功能示意图.png   "功能示意图.png")
 
 **系统功能持续更新中。。。**
 #### 介绍
