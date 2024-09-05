@@ -161,27 +161,28 @@
 
 - 角色管理
 
-![角色管理](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102148@2x.png "角色管理.png")
+![角色管理](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111526@2x.png "角色管理.png")
 
-![角色编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102306@2x.png  "角色编辑.png")
+![角色编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111556@2x.png  "角色编辑.png")
 
-![角色新增](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102224@2x.png "角色新增.png")
+![角色新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111624@2x.png "角色新增.png")
 
 - 系统用户管理
 
-![系统用户列表](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102350@2x.png "系统用户列表.png")
+![系统用户列表](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111751@2x.png "系统用户列表.png")
 
-![系统用户编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-102517@2x.png "系统用户编辑.png")
+![系统用户编辑](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111833@2x.png "系统用户编辑.png")
+
+![系统用户新增](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111907@2x.png "系统用户新增.png")
 
 #### 系统监控模块
 
 - 系统日志
 
-![系统日志模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104302@2x.png "系统日志模块-01.png")
+![系统日志模块-01](https://www.skywalking.pro/download/images/orientation-platform/WX20240905-111947@2x.png "系统日志模块-01.png")
 
-![H5轮播图模块-02](https://www.skywalking.pro/download/images/orientation-platform/WX20231012-104504@2x.png "H5轮播图模块-02.png")
 
-#### H5端模块
+#### 网页端模块
 
 - 首页
 
